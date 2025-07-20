@@ -1,5 +1,5 @@
 # YouTube Members Only Blocker
-YouTube Members Only Blocker is a lightweight browser extension designed to remove all “Members Only” videos from the YouTube home feed, subscriptions feed, channel pages, search results, watch-page sidebar, and recommendation carousels, while preserving the native layout and preventing any empty gaps.
+YouTube Members Only Blocker is a lightweight browser extension designed to remove all “Members Only” videos from the YouTube home feed, subscriptions feed, channel pages, search results, watch-page sidebar, and recommendation carousels, while preserving the native layout and preventing any empty gaps, without the need for login.
 
 # Installation Guide
 
