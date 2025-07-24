@@ -6,7 +6,7 @@ YouTube Members Only Blocker is a lightweight browser extension designed to remo
 
 # Installation Guide
 
-To install the YouTube Language Keyword Filter extension, follow these steps:
+To install the YouTube Members Only Blocker extension, follow these steps:
 
 1. Visit the Mozilla Add-ons website: [YouTube Members Only Blocker](https://addons.mozilla.org/en-US/firefox/addon/youtube-members-only-blocker/).
 2. Click the "Add to Firefox" button,
